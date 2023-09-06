@@ -1,2 +1,2 @@
 # Probando
-Pruebas de código abierto
+Pruebas de código abierto.
